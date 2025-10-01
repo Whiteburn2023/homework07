@@ -15,6 +15,4 @@ public enum Terrain {
     public String getDescription() {
         return description;
     }
-
-
 }

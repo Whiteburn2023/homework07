@@ -55,6 +55,4 @@ public class Human {
             return true;
         }
     }
-
-
 }
