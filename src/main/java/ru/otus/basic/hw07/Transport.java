@@ -7,4 +7,5 @@ public interface Transport {
 
     void refuel(int amount);
 
+
 }
