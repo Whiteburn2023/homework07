@@ -6,6 +6,4 @@ public interface Transport {
     boolean move(int distance, Terrain terrain);
 
     void refuel(int amount);
-
-
 }

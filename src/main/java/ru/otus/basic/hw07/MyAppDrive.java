@@ -30,7 +30,5 @@ public class MyAppDrive {
 //        human.move(7,Terrain.FOREST);
 //        human.move(6,Terrain.PLAIN);
 
-
-
     }
 }

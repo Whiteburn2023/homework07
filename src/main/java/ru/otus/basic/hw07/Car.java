@@ -56,6 +56,4 @@ public class Car implements Transport{
             System.out.println(name + " дозаправлен на " + amount+ " литров. До полного еще нужно " + (fullFuel - fuelCar) + " литров.");
         }
     }
-
-
 }
