@@ -1,6 +1,7 @@
 package ru.otus.basic.hw07;
 
 public enum Terrain {
+
     PLAIN("равнина"),
     SWAMP("болото"),
     FOREST("густой лес");

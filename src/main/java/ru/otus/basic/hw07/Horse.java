@@ -52,4 +52,5 @@ public class Horse implements Transport{
             System.out.println(name + " отдохнул(а) на " + amount+ " сил. До полного восстановления сил еще нужно " + (fullStamina - stamina) + " сил.");
         }
     }
+
 }

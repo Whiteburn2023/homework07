@@ -21,7 +21,6 @@ public class MyAppDrive {
         bicycle.refuel(60);
         human.move(10,Terrain.PLAIN);
         bicycle.refuel(60);
-
         human.move(20,Terrain.PLAIN);
         human.dismountTransport();
         human.mountTransport(bicycle);

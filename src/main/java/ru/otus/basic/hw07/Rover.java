@@ -53,4 +53,5 @@ public class Rover implements Transport{
             System.out.println(name + " дозаправлен на " + amount+ " литров. До полного еще нужно " + (fullFuel - fuelRover) + " литров.");
         }
     }
+
 }
